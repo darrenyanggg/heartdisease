@@ -7,6 +7,9 @@ Age is an integer data type while Sex is a character data type indicated by eith
 
 Heart Disease is the target variable as this predicts whether a patient will have heart disease or not. Based on factors associated with cardiovascular diseases, we have a prediction model that predicts who would have heart disease. We want to see what groups of people need to be paid close attention to so we can spot signs of cardiovascular risk and manage their levels while they still can. This will allow us to answer what groups would be more susceptible to heart attacks/diseases. Other questions addressed in the project will be what factors are most significant in causing heart disease and how accurate our model is. Depending on our findings, we would want those in the group susceptible to heart attacks to be our target audience. Anyone else who thinks they may have cardiovascular issues may also be our target. Healthcare physicians can use this to vet patients who are likely to develop heart disease before more serious symptoms occur.
 
+## Dataset
+https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+
 ## Exploratory Data Analysis
 To explore our data, we graphed all the variables related to our target variable, HeartDisease. We also created a pairwise scatterplot, and correlation matrix heat map, and calculated the variance inflation factor for each variable to determine whether there is collinearity between the variables and to visualize the relationships better. 
 
